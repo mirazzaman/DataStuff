@@ -19,6 +19,9 @@ public class Maps {
 		mapData.replace("Phone", "234567");
 		System.out.println(mapData);
 		
+		mapData.replace("Phone", "00000");
+		System.out.println(mapData);
+		
 	}
 
 }
